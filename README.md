@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Robofriends
 
 Simple application for searching users.
 
